@@ -1,0 +1,15 @@
+{
+  "name": "nixbuild",
+  "version": "1.0.0",
+  "description": "A build system for typescript projects.",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Voltaged",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.1.5"
+  }
+}

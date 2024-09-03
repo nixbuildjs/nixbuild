@@ -1,0 +1,6 @@
+[lints]
+missing_docs = "warn"
+unused_imports = "deny"
+
+[conflicts]
+clippy::pedantic = "allow"
