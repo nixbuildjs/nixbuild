@@ -1,0 +1,51 @@
+# Contributing to NixBuild
+
+Thank you for your interest in contributing to NixBuild! We welcome contributions from everyone. Here’s a guide to help you get started.
+
+## How to Contribute
+
+### Reporting Issues
+
+If you encounter a bug or have a feature request, please:
+
+1. **Check Existing Issues**: Make sure the issue hasn’t already been reported.
+2. **Create a New Issue**: If not, open a new issue with a clear description of the problem or feature request. Provide as much detail as possible, including error messages, steps to reproduce, and relevant screenshots.
+
+### Submitting a Pull Request
+
+To submit a pull request (PR):
+
+1. **Fork the Repository**: Fork the NixBuild repository to your own GitHub account.
+2. **Clone Your Fork**: Clone the forked repository to your local machine.
+3. **Create a Branch**: Create a new branch for your changes. Use a descriptive name for the branch (e.g., `fix-bug-123`, `add-feature-x`).
+4. **Make Changes**: Implement your changes in the new branch.
+5. **Test Your Changes**: Ensure that your changes are thoroughly tested.
+6. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message.
+7. **Push Your Changes**: Push the branch to your forked repository on GitHub.
+8. **Open a Pull Request**: Go to the original NixBuild repository and open a pull request from your branch.
+
+### Code Style
+
+- Follow the existing code style of the project.
+- Ensure that your code is well-documented and includes necessary comments.
+
+### Testing
+
+- Make sure all existing and new tests pass before submitting your PR.
+- Include tests for new features or bug fixes if applicable.
+
+### Review Process
+
+- Be open to feedback and make necessary changes as requested by the maintainers.
+- Once approved, your pull request will be merged into the main branch.
+
+## Additional Guidelines
+
+- **Documentation**: Update the documentation if your changes affect the usage or configuration of NixBuild.
+- **Commit Messages**: Use clear and descriptive commit messages. Follow the format: `[type] short description`.
+
+## Contact
+
+If you have any questions, feel free to reach out to us via [email](mailto:rusindanilo@gmail.com) or open an issue.
+
+Thank you for contributing to NixBuild!
